@@ -184,6 +184,16 @@ label {
     font-family: inherit;
 }
 
+.form-note {
+    font-family: inherit;
+    font-weight: 400;
+}
+
+.form-note span {
+    color: #000000;
+    font-weight: bold;
+}
+
 .formBtn {
     display: flex;
     width: 15.25rem;
